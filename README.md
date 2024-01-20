@@ -9,18 +9,12 @@ and motion detection. Emphasis is on doing the tasks mentioned above in real tim
 by using optimised algorithms available in OpenCV Library which improves the usage of machine
 perception. 
 
-
-
-
 you just need to run main.py file inorder to run full app 
 
-you would need :
-opencv
-tkinter
-
-installed to run these scripts properly
 
 
 
-thanks ;) 
+
+
+
 
